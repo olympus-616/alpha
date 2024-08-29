@@ -1,0 +1,1 @@
+File naming standards are defined by the purpose of the file itself
