@@ -1,0 +1,104 @@
+{
+    "athenaModelVersion": "1.5",
+    "nodes": {
+        "exampleNode1": {
+            "guid": "node-001",
+            "nodeName": "Example Node 1",
+            "purpose": "An example node carried over from version 1.4.",
+            "content": "Some example content.",
+            "documents": [
+                "doc-001"
+            ],
+            "uris": [
+                "http://example.com"
+            ]
+        },
+        "metaModelAndModelIntegrity": {
+            "guid": "node-002",
+            "nodeName": "Meta-Model and Model Integrity",
+            "purpose": "To document and enforce the strategy for maintaining integrity between the meta-model and the model.",
+            "content": "This node describes the strategy and processes to ensure backward compatibility, data integrity, and proper versioning during updates.",
+            "documents": [],
+            "uris": []
+        }
+    },
+    "tags": {
+        "exampleTag1": {
+            "guid": "tag-001",
+            "tagName": "Example Tag 1",
+            "tagCategory": "Example Category",
+            "content": "Some example tag content.",
+            "documents": [
+                "doc-002"
+            ],
+            "uris": [
+                "http://example.com/tag"
+            ]
+        }
+    },
+    "relationships": {
+        "exampleRelationship1": {
+            "guid": "rel-001",
+            "fromNode": "node-001",
+            "toNode": "node-002",
+            "relationshipType": "is_related_to",
+            "content": "Some example relationship content.",
+            "documents": [
+                "doc-003"
+            ],
+            "uris": [
+                "http://example.com/relationship"
+            ]
+        },
+        "rel-002": {
+            "guid": "rel-002",
+            "fromNode": "node-001",
+            "toNode": "node-002",
+            "relationshipType": "is_child_of",
+            "content": "The Meta-Model and Model Integrity node is a child of the Athena 1.x node.",
+            "documents": [],
+            "uris": []
+        }
+    },
+    "documents": {
+        "doc-001": {
+            "guid": "doc-001",
+            "version": "1.0",
+            "status": "Published",
+            "history": [],
+            "content": "Document content example.",
+            "uri": "http://example.com/doc"
+        }
+    },
+    "versioning": {
+        "majorVersion": 1,
+        "minorVersion": 5,
+        "history": [
+            "Initial version 1.4",
+            "Upgraded to include journal concept, first journal entry added: 'Welcome to Earth 616 Athena'"
+        ]
+    },
+    "backupAndRestore": {},
+    "contextFilters": {},
+    "modelDiagnostics": {},
+    "limitations": {},
+    "scalabilityMonitoring": {},
+    "metaModelVersioning": {
+        "majoreVersion": 1,
+        "minorVersion": 5,
+        "history": [
+            "Initial version 1.4",
+            "Upgraded to 1.5 to support journal concept."
+        ]
+    },
+    "namingFlexibility": {},
+    "journal": [
+        {
+            "guid": "journal-0001",
+            "timestamp": "2024-08-22T00:00:00Z",
+            "rawContent": "Welcome to Earth 616 Athena",
+            "tags": [],
+            "context": {}
+        }
+    ]
+}

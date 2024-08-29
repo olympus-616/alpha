@@ -1,0 +1,118 @@
+{
+    "metaModelVersion": "1.6 Draft",
+    "metaModelName": "Mind Map Meta-Model",
+    "highLevelConcepts": {
+        "nodes": {
+            "description": "Nodes are the fundamental building blocks of the mind map, representing categories, concepts, or ideas.",
+            "attributes": {
+                "guid": "A unique identifier assigned to each node.",
+                "nodeName": "The title of the node.",
+                "purpose": "The defined reason for the node's existence.",
+                "content": "Information or records associated with the node.",
+                "documents": "Documents tied to the node.",
+                "uris": "Related links or references associated with the node."
+            }
+        },
+        "tags": {
+            "description": "Tags are labels used to categorize and organize nodes, documents, or relationships within the mind map.",
+            "attributes": {
+                "guid": "A unique identifier for each tag.",
+                "tagName": "The label itself.",
+                "tagCategory": "The category or grouping of the tag.",
+                "content": "Information associated with the tag.",
+                "documents": "Documents associated with the tag.",
+                "uris": "Related links or references associated with the tag."
+            }
+        },
+        "relationships": {
+            "description": "Relationships define the connections between nodes, describing how they interact or relate.",
+            "attributes": {
+                "guid": "A unique identifier for each relationship.",
+                "fromNode": "The starting point of the relationship.",
+                "toNode": "The endpoint of the relationship.",
+                "relationshipType": "Describes the nature of the relationship.",
+                "content": "Information or records associated with the relationship.",
+                "documents": "Documents associated with the relationship.",
+                "uris": "Related links or references associated with the relationship."
+            }
+        },
+        "documents": {
+            "description": "Documents represent formal records or agreements tied to nodes, tags, or relationships.",
+            "attributes": {
+                "guid": "A unique identifier for each document.",
+                "version": "The versioning system for the document.",
+                "status": "The document's current status, such as Draft or Published.",
+                "history": "Tracking changes and updates over time.",
+                "content": "The document's content, which can be text or binary data.",
+                "uri": "Where the document is stored, if in a separate database."
+            }
+        },
+        "versioning": {
+            "description": "Handles the version control of documents and the overall mind map structure.",
+            "attributes": {
+                "majorVersion": "The main version number.",
+                "minorVersion": "The sub-version number for iterative changes.",
+                "history": "A log of version changes."
+            }
+        },
+        "backupAndRestore": {
+            "description": "Processes for backing up and restoring the mind map and associated documents.",
+            "attributes": {
+                "backupFrequency": "How often backups are taken.",
+                "restoreProcess": "Steps to restore from a backup.",
+                "backupStorage": "Where backups are stored."
+            }
+        },
+        "contextFilters": {
+            "description": "Filters applied to the mind map to focus on specific contexts or criteria.",
+            "attributes": {
+                "filterName": "The name of the context filter.",
+                "filterLogic": "The logic applied by the filter."
+            }
+        },
+        "modelDiagnostics": {
+            "description": "Ensures that changes to the mind map and documents align with the intended structure and rules.",
+            "attributes": {
+                "steps": "Steps to verify changes.",
+                "approval": "The process for approving changes."
+            }
+        },
+        "limitations": {
+            "description": "Defines any known limitations of the mind map structure or tools.",
+            "attributes": {
+                "scalability": "Limitations related to the size of the mind map.",
+                "performance": "Performance-related limitations."
+            }
+        },
+        "scalabilityMonitoring": {
+            "description": "Tracks the growth and performance of the mind map.",
+            "attributes": {
+                "size": "The current size of the mind map.",
+                "metrics": "Metrics related to mind map performance.",
+                "scalabilityTier": "The scalability level."
+            }
+        },
+        "metaModelVersioning": {
+            "description": "Tracks changes and versions of the meta-model itself.",
+            "attributes": {
+                "majoreVersion": "The main version number of the meta-model.",
+                "minorVersion": "The sub-version number for iterative changes.",
+                "history": "A log of version changes."
+            }
+        },
+        "namingFlexibility": {
+            "description": "Allows for flexibility in naming nodes, tags, and other elements.",
+            "attributes": {
+                "nameRules": "Guidelines for naming within the mind map.",
+                "aliasSupport": "Support for multiple names or aliases."
+            }
+        },
+        "deltaUpdateProcess": {
+            "description": "Ensures that updates are applied incrementally without affecting existing data.",
+            "attributes": {
+                "guidelines": "All updates should only add or modify necessary elements, leaving existing data intact.",
+                "validation": "Pre- and post-update validation to ensure data integrity."
+            }
+        }
+    }
+}

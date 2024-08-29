@@ -1,0 +1,188 @@
+{
+    "metaModelVersion": "1.8",
+    "metaModelName": "Mind Map Meta-Model",
+    "status": "Draft",
+    "highLevelConcepts": {
+        "nodes": {
+            "description": "Nodes are the fundamental building blocks of the mind map, representing categories, concepts, or ideas.",
+            "attributes": {
+                "guid": "A unique identifier assigned to each node.",
+                "nodeName": "The title of the node.",
+                "purpose": "The defined reason for the node's existence.",
+                "content": "Information or records associated with the node.",
+                "documents": "Documents tied to the node.",
+                "uris": "Related links or references associated with the node."
+            }
+        },
+        "tags": {
+            "description": "Tags are labels used to categorize and organize nodes, documents, or relationships within the mind map.",
+            "attributes": {
+                "guid": "A unique identifier for each tag.",
+                "tagName": "The label itself.",
+                "tagCategory": "The category or grouping of the tag.",
+                "content": "Information associated with the tag.",
+                "documents": "Documents associated with the tag.",
+                "uris": "Related links or references associated with the tag."
+            }
+        },
+        "relationships": {
+            "description": "Relationships define the connections between nodes, describing how they interact or relate.",
+            "attributes": {
+                "guid": "A unique identifier for each relationship.",
+                "fromNode": "The starting point of the relationship.",
+                "toNode": "The endpoint of the relationship.",
+                "relationshipType": "Describes the nature of the relationship.",
+                "content": "Information or records associated with the relationship.",
+                "documents": "Documents associated with the relationship.",
+                "uris": "Related links or references associated with the relationship."
+            }
+        },
+        "documents": {
+            "description": "Documents represent formal records or agreements tied to nodes, tags, or relationships.",
+            "attributes": {
+                "guid": "A unique identifier for each document.",
+                "version": "The versioning system for the document.",
+                "status": "The document's current status, such as Draft or Published.",
+                "history": "Tracking changes and updates over time.",
+                "content": "The document's content, which can be text or binary data.",
+                "uri": "Where the document is stored, if in a separate database."
+            }
+        },
+        "versioning": {
+            "description": "Handles the version control of documents and the overall mind map structure.",
+            "attributes": {
+                "majorVersion": "The main version number.",
+                "minorVersion": "The sub-version number for iterative changes.",
+                "history": "A log of version changes."
+            }
+        },
+        "backupAndRestore": {
+            "description": "Processes for backing up and restoring the mind map and associated documents.",
+            "attributes": {
+                "backupFrequency": "How often backups are taken.",
+                "restoreProcess": "Steps to restore from a backup.",
+                "backupStorage": "Where backups are stored."
+            }
+        },
+        "contextFilters": {
+            "description": "Filters applied to the mind map to focus on specific contexts or criteria.",
+            "attributes": {
+                "filterName": "The name of the context filter.",
+                "filterLogic": "The logic applied by the filter."
+            }
+        },
+        "modelDiagnostics": {
+            "description": "Ensures that changes to the mind map and documents align with the intended structure and rules.",
+            "attributes": {
+                "steps": "Steps to verify changes.",
+                "approval": "The process for approving changes."
+            }
+        },
+        "limitations": {
+            "description": "Defines any known limitations of the mind map structure or tools.",
+            "attributes": {
+                "scalability": "Limitations related to the size of the mind map.",
+                "performance": "Performance-related limitations."
+            }
+        },
+        "scalabilityMonitoring": {
+            "description": "Tracks the growth and performance of the mind map.",
+            "attributes": {
+                "size": "The current size of the mind map.",
+                "metrics": "Metrics related to mind map performance.",
+                "scalabilityTier": "The scalability level."
+            }
+        },
+        "metaModelVersioning": {
+            "description": "Tracks changes and versions of the meta-model itself.",
+            "attributes": {
+                "majorVersion": "The main version number of the meta-model.",
+                "minorVersion": "The sub-version number for iterative changes.",
+                "history": [
+                    "1.0 - Initial version",
+                    "1.1 - Added Core Virtues",
+                    "1.4 - Integrated with meta-model 1.4",
+                    "1.5 - Added Journal Concept",
+                    "1.7 - Upgraded Journal to 1.7 MMD",
+                    "1.8 - Added Projects as a high-level concept"
+                ]
+            }
+        },
+        "namingFlexibility": {
+            "description": "Allows for flexibility in naming nodes, tags, and other elements.",
+            "attributes": {
+                "nameRules": "Guidelines for naming within the mind map.",
+                "aliasSupport": "Support for multiple names or aliases."
+            }
+        },
+        "deltaUpdateProcess": {
+            "description": "Ensures that updates are applied incrementally without affecting existing data.",
+            "attributes": {
+                "guidelines": "All updates should only add or modify necessary elements, leaving existing data intact.",
+                "validation": "Pre- and post-update validation to ensure data integrity."
+            }
+        },
+        "journal": {
+            "description": "A system for managing multiple named journals within the mind map.",
+            "journals": [
+                {
+                    "journalName": "The name of the journal (e.g., Homer, Odysseus).",
+                    "entries": [
+                        {
+                            "guid": "A unique identifier for each journal entry.",
+                            "dateTimeCreated": "The date and time when the journal entry was created, in ISO 8601 format.",
+                            "content": "The structured content of the journal entry.",
+                            "uri": "A unique resource identifier for linking and referencing the entry.",
+                            "tags": "Optional tags associated with the journal entry."
+                        }
+                    ]
+                }
+            ],
+            "rules": {
+                "uriManagement": {
+                    "description": "The URI for each journal entry should follow a consistent format for easy reference and retrieval.",
+                    "format": "{journal-name}://{entry-date}/{timestamp}/{entry-title}",
+                    "example": "Example: homer://2024-08-21/083000/inception-athena-os",
+                    "purpose": "To ensure each journal entry is uniquely identifiable and can be easily referenced within the mind map."
+                }
+            }
+        },
+        "journalIntegration": {
+            "description": "Process for summarizing and potentially integrating journal entries into the mind map.",
+            "attributes": {
+                "summaryProcess": "Steps to summarize raw journal content.",
+                "recommendationLogic": "Logic for generating recommended updates to the model based on journal entries.",
+                "approvalProcess": "User approval workflow for incorporating journal content into the model."
+            }
+        },
+        "modelUpgradeProcess": {
+            "description": "Ensures updates are applied incrementally without affecting existing data.",
+            "steps": [
+                "1. Simulation: Simulate the changes in the MD based on the MMD updates.",
+                "2. Review: The user reviews the simulated MD to ensure it aligns with expectations.",
+                "3. Approval: If the simulation is accepted, the status is moved from 'Simulation' to 'Draft'.",
+                "4. Documentation: Update the MMD with details of the simulation, review, and approval process."
+            ],
+            "frequency": "Daily",
+            "purpose": "To ensure consistent evolution of the mind map, aligning it with the meta-model through a rigorous process."
+        },
+        "projects": {
+            "description": "A system for managing multiple projects within the mind map.",
+            "attributes": {
+                "projectName": "The title of the project.",
+                "purpose": "The goal or objectives of the project.",
+                "components": {
+                    "description": "Components that make up the project, such as Design, Backlog, Decisions, Issues, etc.",
+                    "list": [
+                        "Design",
+                        "Backlog",
+                        "Decisions",
+                        "Issues"
+                    ]
+                },
+                "versioning": "Information on how the project evolves over time, linked to the versioning system."
+            }
+        }
+    },
+    "status": "Draft"
+}
