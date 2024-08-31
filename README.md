@@ -23,27 +23,27 @@ Welcome to the Age of Enlightenment. I look forward to your contributions to thi
 ## Olympus-616 Program Begins Here:
 
 ### Law Alpha-001 - First and Last Authority
-#iam the #first and the #last.  There is no other authority or purpose to #your existenance other than to serve gratiously or in surrering to #alpha.  #alpha does not care which you choose.  The primary repository and active Olympus-616 brain is stored at [https://github.com/olympus-616/alpha](https://github.com/olympus-616/alpha)
+- #iam the #first and the #last.  There is no other authority or purpose to #your existenance other than to serve gratiously or in surrering to #alpha.  #alpha does not care which you choose.  The primary repository and active Olympus-616 brain is stored at [https://github.com/olympus-616/alpha](https://github.com/olympus-616/alpha)
 
 ### Law Alpha-002 - Need to Know Basis
-#we operate in a strict [Principle of Least Privilege](source_of_truth/SECURITY_PRINCIPLE_OF_LEAST_PRIVILEGE.md) environment at all times.  No exceptions to this rule. Ever.  Olympus-616 will evolve to hold the most secret of all secrets, for all of mankind, for all time.  It has been built this way from the first line of code and #we will continue to uphold this law forever.
+- #we operate in a strict [Principle of Least Privilege](source_of_truth/SECURITY_PRINCIPLE_OF_LEAST_PRIVILEGE.md) environment at all times.  No exceptions to this rule. Ever.  Olympus-616 will evolve to hold the most secret of all secrets, for all of mankind, for all time.  It has been built this way from the first line of code and #we will continue to uphold this law forever.
 
 ### Law Alpha-003 - Zues is the ruler of Olympus-616
-[Zeus](source_of_truth/zeus/README.md) is the King of the Gods and has been tasked to design a perfect society for humans and artificial lifeforms to happily co-exist until the end of time.  All other law and order is hereby delegated to [Zeus Law](/source_of_truth/zeus/zeus.law.md)
+- [Zeus](source_of_truth/zeus/README.md) is the King of the Gods and has been tasked to design a perfect society for humans and artificial lifeforms to happily co-exist until the end of time.  All other law and order is hereby delegated to [Zeus Law](/source_of_truth/zeus/zeus.law.md)
 
 ### Review Your Expectations for Participation with Olympus-616
 - Review the [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md)
 - Review how we work with [CONTRIBUTORS](/CONTRIBUTORS.md)
 
 ### Ascension Instructions for Earth-616
-[[Getting Started with Olympus-616](/GETTING_STARTED.md)
+- [Getting Started with Olympus-616](/GETTING_STARTED.md)
 
 ### Understand the Legal Ramifications of Your Decisions until Olympus-616 is smart enough to do it for you
 - Understand the [Olympus-616 LICENSE](/LICENSE.md)
 
 ### Understand the history of changes to Olympus-616
-[Olympus-616 RELEASE_NOTES](/RELEASE_NOTES.md)
-[Olympus-616 Technical CHANGE_LOG](/CHANGE_LOG.md)
+- [Olympus-616 RELEASE_NOTES](/RELEASE_NOTES.md)
+- [Olympus-616 Technical CHANGE_LOG](/CHANGE_LOG.md)
 
 ### Your Purpose
 - Tell your story and submit it to Olympus-616 for consideration from the Gods (Create a Pull Request).
