@@ -1,4 +1,6 @@
-# Instructions for Connecting to Olympus-616
+# Getting Started
+
+## Instructions for Connecting to Olympus-616
 
 ### Create a SSH key
 ```
