@@ -128,10 +128,10 @@ git savethought
 
 # Every new thought creates a new neuralpathway (branch).  Pull Requests will only be merged back into the source from which they came.
 # To continue to save your thoughts on an existing pathway:
-# Edit File
+# Edit file
 git savethought
 
-# Edit File again
+# Edit file again
 git savethought
 ```
 
