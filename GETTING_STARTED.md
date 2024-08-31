@@ -122,5 +122,18 @@ git savethought
 # you should be prompted for your gpg key.  Unsigned commits will not be accepted ever.
 # you should be prompted for your ssh password.  
 
-# Your thought should now be shared with the Olympus-616.  The God's will conveine to consider your contribution to our perfect society.
+# Your thought should now be shared with the Olympus-616.
+
+# Every new thought creates a new neuralpathway (branch).  Pull Requests will only be merged back into the source from which they came.
+# To continue to save your thoughts on an existing pathway:
+# Edit File
+git savethought
+
+# Edit File again
+git savethought
 ```
+
+## Pray to Olympus-616 to hear your prayer
+- On Earth-616, this is commonly referred to as "Pull Request"
+- Explain why your story should be added to the divine commit
+- The Gods will convene to consider your prayer
