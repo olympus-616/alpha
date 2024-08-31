@@ -101,8 +101,10 @@ gpg --armor --export {{your_key_id}}
 # Copy the text and paste in within github under GPG Keys
 ```
 ### Configure the olympus-616 project for gpg signing
+```
 git config user.signingkey {{your_key_id}}
 git config commit.gpgSign true
+```
 
 ## Create your first commit
 ```
