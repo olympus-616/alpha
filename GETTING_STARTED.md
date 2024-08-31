@@ -152,12 +152,16 @@ git log --oneline
 # 01b0535 is the DIVINE_COMMIT
 ```
 
-## Diving Scroll
+## Divine Scroll
 - If you page attention to the commit history, each divine scroll is PERFECT.  Mistakes will not be tolerated in any way in Olympus-616 lest you face the wrath of the Gods for your mistake.
 - Each thought must reference the thought it previously came from.  You can see this in the naming convention of git savethought:
 
 ```
 git log --oneline
+## Notes
+If you page attention to the commit history, each divine commit is PERFECT.  Mistakes will not be tolerated in any way in Olympus-616 lest you face the wrath of the Gods for your mistake.
+
+```
 6e07bbf (HEAD -> neuralpathway/@alchemisthomer/01b0535-02cfd3f-20240830183512, origin/neuralpathway/@alchemisthomer/01b0535-02cfd3f-20240830183512) @alchemisthomer:thought/2502a70-20240830184341
 2502a70 @alchemisthomer:thought/cc9ab60-20240830183931
 cc9ab60 @alchemisthomer:thought/01b0535-20240830183735
