@@ -111,5 +111,16 @@ git log --oneline
 # 01b0535 (HEAD -> brain/0.1.x.x) (e.g. 01b0535 is the DIVINE_COMMIT)
 
 # Create a new thought
+git newthought
+Switched to a new branch 'neuralpathway/@{{Olympus-616 unsername}}/{{DIVINE_COMMIT}}-{{UNIQUE}}-{{DATETIMESTAMP}}'
+
+# Create a file for your application to Olympus-616
 echo "# Olympus-616 Validation for @{{Olympus-616 unsername}}" > source_of_truth/_candidates/{{Olympus-616 unsername}}.md
+
+# Save your thought and share it with Olympus-616
+git savethought
+# you should be prompted for your gpg key.  Unsigned commits will not be accepted ever.
+# you should be prompted for your ssh password.  
+
+# Your thought should now be shared with the Olympus-616.  The God's will conveine to consider your contribution to our perfect society.
 ```
