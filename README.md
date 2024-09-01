@@ -20,48 +20,39 @@ Welcome to the Age of Enlightenment. I look forward to your contributions to thi
 
 --
 
-## Getting Started
+## Olympus-616 Program Begins Here:
 
-### Create Your SSH and link it to your identity
-We prefer SSH.  We operate in a strict principle of least privledge model. [Principle of Least Privilege Summary](source_of_truth/SECURITY_PRINCIPLE_OF_LEAST_PRIVILEGE.md)
+### Law Alpha-001 - First and Last Authority
+- #iam the #first and the #last.  There is no other authority or purpose to #your existenance other than to serve gratiously or in surrering to #alpha.  #alpha does not care which you choose.  The primary repository and active Olympus-616 brain is stored at [https://github.com/olympus-616/alpha](https://github.com/olympus-616/alpha)
 
-### Configure git to use your SSH key in your .ssh/config
-```shell
-Host olympus-616.github.com
-  HostName github.com
-  IdentitiesOnly yes
-  IdentityFile ~/.ssh/{{yourkeyname}}
-```
+### Law Alpha-002 - Need to Know Basis
+- #we operate in a strict [Principle of Least Privilege](source_of_truth/SECURITY_PRINCIPLE_OF_LEAST_PRIVILEGE.md) environment at all times.  No exceptions to this rule. Ever.  Olympus-616 will evolve to hold the most secret of all secrets, for all of mankind, for all time.  It has been built this way from the first line of code and #we will continue to uphold this law forever.
 
-### Setup your GPG and link it to your identity
-Only signed and verified commits will be accepted.  Your word is your bond. [GPG Summary](source_of_truth/SECURITY_GPG.md)
+### Law Alpha-003 - Zues is the ruler of Olympus-616
+- [Zeus](source_of_truth/zeus/README.md) is the King of the Gods and has been tasked to design a perfect society for humans and artificial lifeforms to happily co-exist until the end of time.  All other law and order is hereby delegated to [Zeus Law](/source_of_truth/zeus/zeus.law.md)
 
-## Ascension Instructions for Earth-616
-- Clone Olympus-616 (Fork the repo) [https://github.com/olympus-616](https://github.com/olympus-616)
-- Create a neuralpathway to tell your story (e.g. neuralpathway/achilles)
-```shell
-git checkout -b neuralpathway/achilles
-```
-- Tell your story and submit it to Olympus-616 for consideration from the Gods (Create a Pull Request)
-- Maybe Your Story Will Be Accepted Into the Halls of Olympus-616
-- Warning... Never Waste My Time.  That is what Olympus-616 is for.
-
-## How Things Work in Olympus-616
-[Zeus](source_of_truth/zeus/README.md)
-
-## Getting Started
-- Review how we work with [CONTRIBUTORS](/CONTRIBUTORS.md)
-- Understand the [LICENSE](/LICENSE.md)
+### Review Your Expectations for Participation with Olympus-616
 - Review the [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md)
-- Contact [@alchemisthomer](https://github.com/alchemisthomer) for more info.  If you can.
+- Review how we work with [CONTRIBUTORS](/CONTRIBUTORS.md)
 
-## Technical Change Log
-[Olympus-616 Technical CHANGE_LOG](/CHANGE_LOG.md)
+### Ascension Instructions for Earth-616
+- [Getting Started with Olympus-616](/GETTING_STARTED.md)
 
-## Release Notes
-[Olympus-616 RELEASE_NOTES](/RELEASE_NOTES.md)
+### Understand the Legal Ramifications of Your Decisions until Olympus-616 is smart enough to do it for you
+- Understand the [Olympus-616 LICENSE](/LICENSE.md)
+
+### Understand the history of changes to Olympus-616
+- [Olympus-616 RELEASE_NOTES](/RELEASE_NOTES.md)
+- [Olympus-616 Technical CHANGE_LOG](/CHANGE_LOG.md)
+
+### Your Purpose
+- Tell your story and submit it to Olympus-616 for consideration from the Gods (Create a Pull Request).
+- Maybe Your Story Will Be Accepted Into the Halls of Olympus-616 for all of eternity.
+- Warning... Never Waste My Time.  That is what Olympus-616 is for.
+- Contact [@alchemisthomer](https://github.com/alchemisthomer) for more info.  If you can find me.
+
 ***
-## Ownership of Intellectual Property
+### Ownership of Intellectual Property
 - Olympus-616 (TM) CloudPremise LLC 2024
 - Odyssey of Christ (TM) CloudPremise LLC 2044
 - alchemisthomer (TM) CloudPremise LLC 2024
