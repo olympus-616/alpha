@@ -21,6 +21,9 @@ Books: Representing knowledge, wisdom, or the act of creation.
 Lightning Bolt: Symbolizing power, divine inspiration, or sudden insight.
 With these descriptions, you can easily recreate or request images that align with the Olympus-616 book series’ visual identity, ensuring consistency across all related artwork. If you ever need to generate similar scenes, feel free to reference these points, and I’ll help create something that fits within this style.
 
+
+### I think this could be generated with each image we want to keep as part of the metadata for the media.  And not Image Metadata it would be File Metadata like any file can have metadata
+
 # Image Metadata - [Module Name]: [Image Name]
 
 ## General Information
