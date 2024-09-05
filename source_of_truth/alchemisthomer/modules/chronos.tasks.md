@@ -2,7 +2,7 @@
 
 ## Module Overview
 [Alpha](../../../README.md)
-[alchemisthomer](../README.md)
+[Alchemisthomer](../README.md)
 [Authority](../../zeus/zeus.components.md)  
 [Source](../alchemisthomer.source.md)
 [Design](../alchemisthomer.design.md)
@@ -16,10 +16,6 @@
 | 0.1.x.x   | 20240905   | [@alchemisthomer](https://github.com/alchemisthomer)     | Created       
 
 ---
-
-## Purpose
-Filename: alchemisthomer.chronos.tasks.md
-Author: alchemisthomer
 
 # Projects
 
@@ -67,11 +63,21 @@ Author: alchemisthomer
 - Status: In Progress
 - Notes: 
 
+---
+# Template
 
+## Project Template
+- Project Name: 
+- Notes: 
+
+### Task Template
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
+- Status: In Progress
+- Notes: 
 
 ## Module Overview
 [Alpha](../../../README.md)
-[alchemisthomer](../README.md)
+[Alchemisthomer](../README.md)
 [Authority](../../zeus/zeus.components.md)  
 [Source](../alchemisthomer.source.md)
 [Design](../alchemisthomer.design.md)
