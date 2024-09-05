@@ -34,7 +34,9 @@
 ### Skill Sync
 - Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
 - Status: In Progress
-- Notes: Need Id https://procasemanagement.my.salesforce.com/003UW000004Dpte
+- Notes:
+Need Id https://procasemanagement.my.salesforce.com/003UW000004Dpte
+Syed Shahid that is the name of the CMRN the user gave
 
 ### Delete Metadata from Justin
 - Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
