@@ -19,6 +19,16 @@
 
 # Projects
 
+## Mohela
+### Demo
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
+- Status: In Progress
+- Notes:
+-- PDF Viewer
+-- Workflow Preview
+-- Component Architecture for filtered contact/case components
+
+
 ## PCM
 
 ### Skedulo Test Coverage
@@ -59,6 +69,17 @@ Syed Shahid that is the name of the CMRN the user gave
 - Notes: get details from Bliksem
 
 ## Olympus-616
+### Chronos Prototype
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
+- Status: Backlog
+- Notes:
+-- Building chronos file to hold my tasks
+
+### Plutus Prototype
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
+- Status: Backlog
+- Notes:
+-- Building chronos file to manage my bills
 
 ---
 # Template
