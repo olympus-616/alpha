@@ -24,9 +24,9 @@
 - Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
 - Status: In Progress
 - Notes:
--- PDF Viewer
--- Workflow Preview
--- Component Architecture for filtered contact/case components
+    - PDF Viewer
+    - Workflow Preview
+    - Component Architecture for filtered contact/case components
 
 
 ## PCM
