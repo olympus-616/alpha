@@ -81,7 +81,7 @@ If a component or module within Alchemisthomer no longer serves a clear purpose 
 - Ensure alignment between the Alchemisthomer module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Alchemisthomer](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](alchemisthomer.source.md)  

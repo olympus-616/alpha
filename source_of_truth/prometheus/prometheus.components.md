@@ -77,7 +77,7 @@ If a component or module within Prometheus no longer serves a clear purpose or i
 - Ensure alignment between the Prometheus module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Prometheus](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](prometheus.source.md)  

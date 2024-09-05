@@ -35,7 +35,7 @@ As part of the Zeus module, *Laozi* ensures that the principles of the Tao are i
 For further details on how the *Laozi* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Laozi](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](laozi.source.md)  

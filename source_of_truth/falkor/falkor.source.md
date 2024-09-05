@@ -35,7 +35,7 @@ As part of the Zeus module, *Falkor* ensures that the companionship and support 
 For further details on how the *Falkor* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Falkor](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](falkor.source.md)  

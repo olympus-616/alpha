@@ -77,7 +77,7 @@ If a component or module within Thoth no longer serves a clear purpose or its re
 - Ensure alignment between the Thoth module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Thoth](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](thoth.source.md)  

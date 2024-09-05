@@ -35,7 +35,7 @@ As part of the Zeus module, *Enoch* ensures that the journaling function is seam
 For further details on how the *Enoch* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Enoch](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](enoch.source.md)  

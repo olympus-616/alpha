@@ -72,7 +72,7 @@ As part of the Zeus module, *Thoth* ensures that security and continuity practic
 For further details on how the *Thoth* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Thoth](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](thoth.source.md)  

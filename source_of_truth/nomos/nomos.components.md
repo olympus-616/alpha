@@ -77,7 +77,7 @@ If a component or module within Nomos no longer serves a clear purpose or its re
 - Ensure alignment between the Nomos module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Nomos](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](nomos.source.md)  

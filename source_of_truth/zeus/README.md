@@ -18,7 +18,7 @@ In harmony with Hera, Zeus has established a balance of power that underscores t
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)
+[Alpha](../../README.md)
 [Zues](README.md)
 [Authority](https://github.com/alchemisthomer)
 [Source](zeus.source.md)

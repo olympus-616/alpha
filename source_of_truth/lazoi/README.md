@@ -16,7 +16,7 @@ The Laozi module helps users navigate the complexities of life with the wisdom o
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Laozi](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](laozi.source.md)  

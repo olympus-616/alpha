@@ -35,7 +35,7 @@ As part of the Zeus module, *Odyssey of Christ* ensures that spiritual and ethic
 For further details on how the *Odyssey of Christ* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Odyssey of Christ](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](odyssey_of_christ.source.md)  

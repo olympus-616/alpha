@@ -19,7 +19,7 @@ As the driving force behind all inspirational projects within Olympus-616, Apoll
 Apollo serves as the creativity and arts module within Olympus-616. Named after the Greek god of music, arts, and prophecy, Apollo is responsible for all creative expressions, artistic endeavors, and inspirational projects within the system. This module fosters innovation and creativity, ensuring that Olympus-616 is not only functional but also rich in cultural and artistic content.
 
 ## Module Overview
-[Olympus-616](../../README.md)
+[Alpha](../../README.md)
 [Apollo](README.md)
 [Authority](../zeus/zeus.components.md)
 [Source](apollo.source.md)

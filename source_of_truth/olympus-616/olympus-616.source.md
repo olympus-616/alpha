@@ -35,7 +35,7 @@ As the central hub of the system, *Olympus-616* is intimately connected to the Z
 For further details on how the *Olympus-616* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Olympus-616](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](olympus_616.source.md)  

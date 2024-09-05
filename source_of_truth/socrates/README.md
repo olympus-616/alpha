@@ -15,7 +15,7 @@ The *Socrates* module is the voice of inquiry within Olympus-616, ensuring that 
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Socrates](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](socrates.source.md)  

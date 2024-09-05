@@ -123,7 +123,7 @@ Include any additional information, diagrams, or references that support the con
 - The components of the Odyssey of Christ module are detailed in the `odyssey_of_christ.components.md` file, listing all components under the jurisdiction of the module, including their descriptions, status, and source of truth.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Odyssey of Christ](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](odyssey_of_christ.source.md)  

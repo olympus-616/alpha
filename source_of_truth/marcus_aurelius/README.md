@@ -18,7 +18,7 @@ The Marcus Aurelius module is a cornerstone of Olympus-616, representing the fus
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Marcus Aurelius](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](marcus_aurelius.source.md)  

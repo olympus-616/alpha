@@ -35,7 +35,7 @@ As part of the Zeus module, *Christ* plays a crucial role in ensuring that the o
 For further details on how the *Christ* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Christ](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](christ.source.md)  

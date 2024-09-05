@@ -14,7 +14,7 @@ Offering insights, creative exploration, and a deeper understanding of one's tho
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [The Mirror of Narcissus](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](mirror_of_narcissus.source.md)  

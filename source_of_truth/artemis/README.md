@@ -18,7 +18,7 @@ Artemis within Olympus-616 is a symbol of unyielding protection and unwavering c
 2024 A.D.**
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Artemis](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](artemis.source.md)  

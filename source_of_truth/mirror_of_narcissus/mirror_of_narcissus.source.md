@@ -35,7 +35,7 @@ As part of the Zeus module, *The Mirror of Narcissus* ensures that personal refl
 For further details on how the *The Mirror of Narcissus* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [The Mirror of Narcissus](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](mirror_of_narcissus.source.md)  

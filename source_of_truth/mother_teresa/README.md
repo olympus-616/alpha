@@ -15,7 +15,7 @@ The Mother Teresa module is a beacon of compassion within Olympus-616, guiding t
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Mother Teresa](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](mother_teresa.source.md)  

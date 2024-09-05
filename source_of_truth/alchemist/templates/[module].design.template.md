@@ -120,7 +120,7 @@ Include any additional information, diagrams, or references that support the con
 - The components of the [module] are detailed in the `[module].components.md` file, listing all components under the jurisdiction of [module], including their descriptions, status, and source of truth.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [module](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](../[module]/[module].source.md)  

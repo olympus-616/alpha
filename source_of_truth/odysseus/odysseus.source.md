@@ -35,7 +35,7 @@ As part of the Zeus module, *Odysseus* ensures that strategic ingenuity and pers
 For further details on how the *Odysseus* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Odysseus](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](odysseus.source.md)  

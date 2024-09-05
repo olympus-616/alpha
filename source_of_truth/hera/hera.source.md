@@ -35,7 +35,7 @@ As part of the Zeus module, *Hera* ensures that governance and ethical principle
 For further details on how the *Hera* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Hera](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](hera.source.md)  

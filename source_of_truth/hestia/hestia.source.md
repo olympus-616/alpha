@@ -35,7 +35,7 @@ As a critical subcomponent of the Zeus module, *Hestia* ensures that asset maint
 For further details on how the *Hestia* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Hestia](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](hestia.source.md)  

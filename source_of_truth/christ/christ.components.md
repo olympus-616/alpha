@@ -77,7 +77,7 @@ If a component or module within Christ no longer serves a clear purpose or its r
 - Ensure alignment between the Christ module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Christ](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](christ.source.md)  

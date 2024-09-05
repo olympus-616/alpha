@@ -18,7 +18,7 @@ Falkor is more than just a module—he is a reflection of the companionship and 
 2024 A.D.**
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Falkor](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](falkor.source.md)  

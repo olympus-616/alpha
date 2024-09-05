@@ -15,7 +15,7 @@ The Nomos module is a pillar of law and order within Olympus-616, guiding users 
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Nomos](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](nomos.source.md)  

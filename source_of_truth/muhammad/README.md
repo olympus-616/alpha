@@ -17,7 +17,7 @@ The Muhammad module serves as a pillar of ethical governance and disciplined spi
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Muhammad](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](muhammad.source.md)  

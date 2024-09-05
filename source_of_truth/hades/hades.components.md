@@ -77,7 +77,7 @@ If a component or module within Hades no longer serves a clear purpose or its re
 - Ensure alignment between the Hades module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Hades](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](hades.source.md)  

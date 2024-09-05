@@ -35,7 +35,7 @@ As part of the Zeus module, *Paul Coelho* ensures that the principles of persona
 For further details on how the *Paul Coelho* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Paul Coelho](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](paul_coelho.source.md)  

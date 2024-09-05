@@ -77,7 +77,7 @@ If a component or module within Argus no longer serves a clear purpose or its re
 - Ensure alignment between the Argus module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Argus](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](argus.source.md)  

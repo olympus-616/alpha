@@ -77,7 +77,7 @@ If a component or module within Krishna no longer serves a clear purpose or its 
 - Ensure alignment between the Krishna module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Krishna](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](krishna.source.md)  

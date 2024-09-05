@@ -84,7 +84,7 @@ If a component or module within Olympus-616 no longer serves a clear purpose or 
 - Ensure alignment between the Olympus-616 module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Olympus-616](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](olympus_616.source.md)  

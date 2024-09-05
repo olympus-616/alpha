@@ -18,7 +18,7 @@ The Prometheus module is a testament to the power of innovation within Olympus-6
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Prometheus](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](prometheus.source.md)  

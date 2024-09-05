@@ -35,7 +35,7 @@ As a critical subcomponent of the Zeus module, *Demeter* ensures that the manage
 For further details on how the *Demeter* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Demeter](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](demeter.source.md)  

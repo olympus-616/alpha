@@ -14,7 +14,7 @@ At the Mirror of Narcissus, users encounter their AI assistant, which serves as 
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Joseph Campbell](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](joseph_campbell.source.md)  

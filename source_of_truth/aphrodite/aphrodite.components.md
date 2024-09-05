@@ -77,7 +77,7 @@ If a component or module within Aphrodite no longer serves a clear purpose or it
 - Ensure alignment between the Aphrodite module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Aphrodite](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](aphrodite.source.md)  

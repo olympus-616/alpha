@@ -35,7 +35,7 @@ As part of the Zeus module, *King Arthur* ensures that the vision of a better fu
 For further details on how the *King Arthur* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [King Arthur](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](king_arthur.source.md)  

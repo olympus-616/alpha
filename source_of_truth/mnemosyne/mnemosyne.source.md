@@ -35,7 +35,7 @@ As part of the Zeus module, *Mnemosyne* ensures that memory management and cachi
 For further details on how the *Mnemosyne* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Mnemosyne](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](mnemosyne.source.md)  

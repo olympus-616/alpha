@@ -123,7 +123,7 @@ Include any additional information, diagrams, or references that support the con
 - The components of the Apollo module are detailed in the `apollo.components.md` file, listing all components under the jurisdiction of Apollo, including their descriptions, status, and source of truth.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Apollo](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](apollo.source.md)  

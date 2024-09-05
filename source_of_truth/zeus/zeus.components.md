@@ -262,7 +262,7 @@ If a module or component no longer serves a clear purpose or its purpose is abso
 - Use this document as a reference when making architectural decisions or modifications.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Zeus](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](zeus.source.md)  

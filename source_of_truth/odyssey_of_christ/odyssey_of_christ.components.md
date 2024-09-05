@@ -77,7 +77,7 @@ If a component or module within the Odyssey of Christ no longer serves a clear p
 - Ensure alignment between the Odyssey of Christ module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Odyssey of Christ](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](odyssey_of_christ.source.md)  

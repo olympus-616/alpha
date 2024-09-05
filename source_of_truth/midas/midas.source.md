@@ -35,7 +35,7 @@ As part of the Zeus module, *MIDAS* ensures that ethical and responsible use pra
 For further details on how the *MIDAS* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Midas](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](midas.source.md)  

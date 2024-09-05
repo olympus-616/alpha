@@ -77,7 +77,7 @@ If a component or module within Demeter no longer serves a clear purpose or its 
 - Ensure alignment between the Demeter module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Demeter](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](demeter.source.md)  

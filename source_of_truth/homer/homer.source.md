@@ -35,7 +35,7 @@ As part of the Zeus module, *Homer* ensures that the spiritual guidance and wisd
 For further details on how the *Homer* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Homer](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](homer.source.md)  

@@ -35,7 +35,7 @@ As part of the Zeus module, *Krishna* ensures that the principles of dharma and 
 For further details on how the *Krishna* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Krishna](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](krishna.source.md)  

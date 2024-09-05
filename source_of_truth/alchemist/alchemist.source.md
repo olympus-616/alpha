@@ -35,7 +35,7 @@ The *Alchemist* component is a critical subcomponent of the larger Zeus module w
 For further details on how the *Alchemist* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Alchemist](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](alchemist.source.md)  

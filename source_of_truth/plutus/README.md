@@ -15,7 +15,7 @@ The *Plutus* module is designed to guide users toward financial autonomy, provid
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Plutus](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](plutus.source.md)  

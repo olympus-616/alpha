@@ -14,7 +14,7 @@ Demeter ensures that users have access to the resources they need for a balanced
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Demeter](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](demeter.source.md)  

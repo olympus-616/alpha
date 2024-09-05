@@ -77,7 +77,7 @@ If a component or module within Paul Coelho no longer serves a clear purpose or 
 - Ensure alignment between the Paul Coelho module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Paul Coelho](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](paul_coelho.source.md)  

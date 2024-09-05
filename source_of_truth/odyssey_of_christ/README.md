@@ -17,7 +17,7 @@ The *Odyssey of Christ* is more than just a story—it's a journey into the soul
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Odyssey of Christ](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](odyssey_of_christ.source.md)  

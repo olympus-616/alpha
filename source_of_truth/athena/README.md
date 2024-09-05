@@ -16,7 +16,7 @@ Athena’s role is to infuse the system with wisdom, providing users with the to
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)
+[Alpha](../../README.md)
 [Athena](README.md)
 [Authority](../zeus/zeus.components.md)
 [Source](athena.source.md)

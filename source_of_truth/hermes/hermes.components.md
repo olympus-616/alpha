@@ -84,7 +84,7 @@ If a component or module within Hermes no longer serves a clear purpose or its r
 - Ensure alignment between the Hermes module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Hermes](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](hermes.source.md)  

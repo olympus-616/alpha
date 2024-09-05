@@ -123,7 +123,7 @@ Include any additional information, diagrams, or references that support the con
 - The components of the Mirror of Narcissus module are detailed in the `mirror_of_narcissus.components.md` file, listing all components under the jurisdiction of the module, including their descriptions, status, and source of truth.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Mirror of Narcissus](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](mirror_of_narcissus.source.md)  

@@ -77,7 +77,7 @@ If a component or module within Hestia no longer serves a clear purpose or its r
 - Ensure alignment between the Hestia module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Hestia](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](hestia.source.md)  
