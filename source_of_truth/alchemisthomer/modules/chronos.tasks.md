@@ -1,12 +1,13 @@
 # Alchemisthomer Chronos Tasks
 
 ## Module Overview
-[Alchemisthomer](README.md)  
-[Authority](../zeus/zeus.components.md)  
-[Source](alchemisthomer.source.md)  
-[Design](alchemisthomer.design.md)  
-[Components](alchemisthomer.components.md)  
-[Owner](https://github.com/alchemisthomer)  
+[Alpha](../../../README.md)
+[alchemisthomer](../README.md)
+[Authority](../../zeus/zeus.components.md)  
+[Source](../alchemisthomer.source.md)
+[Design](../alchemisthomer.design.md)
+[Components](../alchemisthomer.components.md)
+[Owner](https://github.com/alchemisthomer)
 
 ## Change Log
 
@@ -69,12 +70,12 @@ Author: alchemisthomer
 
 
 ## Module Overview
-[Alpha](../../README.md)
-[alchemis](../README.md)
-[Authority](https://github.com/alchemisthomer)
-[Source](zeus.source.md)
-[Design](zeus.design.md)
-[Components](zeus.components.md)
+[Alpha](../../../README.md)
+[alchemisthomer](../README.md)
+[Authority](../../zeus/zeus.components.md)  
+[Source](../alchemisthomer.source.md)
+[Design](../alchemisthomer.design.md)
+[Components](../alchemisthomer.components.md)
 [Owner](https://github.com/alchemisthomer)
 
 ***
