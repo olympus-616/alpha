@@ -22,46 +22,41 @@
 ## PCM
 
 ### Skedulo Test Coverage
-- Assigned To: alchemisthomer
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
 - Status: In Progress
 - Notes: Deployment is failing to staging org
 
 ### LOA Notifications
-- Assigned To: alchemisthomer
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
 - Status: In Progress
 - Notes: Unable to find proof of LOA... need new id
 
 ### Skill Sync
-- Assigned To: alchemisthomer
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
 - Status: In Progress
 - Notes: Need Id https://procasemanagement.my.salesforce.com/003UW000004Dpte
 
 ### Delete Metadata from Justin
-- Assigned To: alchemisthomer
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
 - Status: In Progress
 - Notes: Need to execute in uat, staging, and then prod
 
 ### Environment Sandbox Script
-- Assigned To: alchemisthomer
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
 - Status: In Progress
 - Notes: Need to execute in uat, staging, and then prod
 
 ### Web2Case Go Live Plan
-- Assigned To: alchemisthomer
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
 - Status: In Progress
 - Notes: 
 
 ### Equipment Calibration LWC
-- Assigned To: alchemisthomer
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
 - Status: Backlog
 - Notes: get details from Bliksem
 
 ## Olympus-616
-
-### Need New GPG Key for Odyssey1
-- Assigned To: alchemisthomer
-- Status: In Progress
-- Notes: 
 
 ---
 # Template
