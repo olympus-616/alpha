@@ -27,14 +27,14 @@
 ## Mohela
 ### In Progress
 - Tasks:
-    - PDF Viewer (done, waiting for testing feedback)
-    - Workflow Preview (Nand is working on this)
-    - Component Architecture for filtered contact/case components
+    - [] PDF Viewer (done, waiting for testing feedback)
+    - [] Workflow Preview (Nand is working on this)
+    - [] Component Architecture for filtered contact/case components
         - Get questions to Nishad
-    - Remove the permission sets from source completely
+    - [] Remove the permission sets from source completely
         - CAMP_UAT_PLATFORM
         - CAMP_UAT
-    - Add the string he wanted for the demo
+    - [] Add the string he wanted for the demo
         - Local or National Emergency Forbearance
     - [x] Invoice
 
