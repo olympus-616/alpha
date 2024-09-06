@@ -35,7 +35,7 @@ As part of the Zeus module, *Joseph Campbell* ensures that the Hero's Journey is
 For further details on how the *Joseph Campbell* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Joseph Campbell](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](joseph_campbell.source.md)  

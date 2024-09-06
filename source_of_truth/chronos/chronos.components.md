@@ -77,7 +77,7 @@ If a component or module within Chronos no longer serves a clear purpose or its 
 - Ensure alignment between the Chronos module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Chronos](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](chronos.source.md)  

@@ -16,7 +16,7 @@ In the same way that Argus was tasked with guarding and observing in ancient myt
 2024 A.D.**
 
 ## Module Overview
-[Olympus-616](../../README.md)
+[Alpha](../../README.md)
 [Apollo](README.md)
 [Authority](../zeus/zeus.components.md)
 [Argus](argus.source.md)

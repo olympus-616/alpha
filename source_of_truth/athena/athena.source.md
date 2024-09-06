@@ -35,7 +35,7 @@ As a critical subcomponent of the Zeus module, *Athena* works closely with Zeus 
 For further details on how the *Athena* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Athena](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](athena.source.md)  

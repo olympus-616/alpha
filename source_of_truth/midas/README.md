@@ -14,7 +14,7 @@ Midas guides users in making decisions that are not only effective but also ethi
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [MIDAS](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](midas.source.md)  

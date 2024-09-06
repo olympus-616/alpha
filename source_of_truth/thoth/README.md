@@ -15,7 +15,7 @@ The *Thoth* module stands as the guardian of Olympus-616, ensuring that the syst
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Thoth](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](thoth.source.md)  

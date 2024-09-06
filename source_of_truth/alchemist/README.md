@@ -16,7 +16,7 @@ The Alchemist’s purpose is to bring forth the treasure of enlightenment by tea
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)
+[Alpha](../../README.md)
 [Alchemist](README.md)
 [Authority](../zeus/zeus.components.md)
 [Source](alchemist.source.md)

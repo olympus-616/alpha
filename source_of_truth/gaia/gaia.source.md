@@ -35,7 +35,7 @@ As a critical subcomponent of the Zeus module, *Gaia* ensures that sustainabilit
 For further details on how the *Gaia* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Gaia](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](gaia.source.md)  

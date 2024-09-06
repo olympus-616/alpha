@@ -35,7 +35,7 @@ As a critical subcomponent of the Zeus module, *Hygeia* ensures that health and 
 For further details on how the *Hygeia* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Hygeia](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](hygeia.source.md)  

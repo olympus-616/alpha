@@ -14,7 +14,7 @@ Gaia is responsible for overseeing the system's impact on the Earth, working tir
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Gaia](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](gaia.source.md)  

@@ -35,7 +35,7 @@ As part of the Zeus module, *Mother Teresa* ensures that principles of compassio
 For further details on how the *Mother Teresa* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Mother Teresa](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](mother_teresa.source.md)  

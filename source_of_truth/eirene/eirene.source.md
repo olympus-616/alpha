@@ -35,7 +35,7 @@ As part of the Zeus module, *Eirene* ensures that the principles of peace and ha
 For further details on how the *Eirene* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Eirene](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](eirene.source.md)  

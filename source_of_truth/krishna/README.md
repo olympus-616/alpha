@@ -16,7 +16,7 @@ Krishna's teachings in the Bhagavad Gita—on duty, the path of righteousness, a
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Krishna](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](krishna.source.md)  

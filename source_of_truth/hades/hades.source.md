@@ -35,7 +35,7 @@ As part of the Zeus module, *Hades* ensures that lifecycle management and secure
 For further details on how the *Hades* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Hades](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](hades.source.md)  

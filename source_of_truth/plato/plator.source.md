@@ -35,7 +35,7 @@ As part of the Zeus module, *Plato* ensures that philosophical inquiry and ethic
 For further details on how the *Plato* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Plato](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](plato.source.md)  

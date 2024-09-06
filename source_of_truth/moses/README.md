@@ -20,7 +20,7 @@ Moses within Olympus-616 is a symbol of unwavering commitment to both spiritual 
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Moses](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](moses.source.md)  

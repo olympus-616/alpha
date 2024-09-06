@@ -77,7 +77,7 @@ If a component or module within King Arthur no longer serves a clear purpose or 
 - Ensure alignment between the King Arthur module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [King Arthur](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](king_arthur.source.md)  

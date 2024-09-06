@@ -35,7 +35,7 @@ As part of the Zeus module, *Moses* ensures that rules and governance structures
 For further details on how the *Moses* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Moses](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](moses.source.md)  

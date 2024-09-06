@@ -35,7 +35,7 @@ As part of the Zeus module, *Plutus* ensures that financial management practices
 For further details on how the *Plutus* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Plutus](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](plutus.source.md)  

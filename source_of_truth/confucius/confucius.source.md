@@ -35,7 +35,7 @@ As part of the Zeus module, *Confucius* ensures that ethical principles and soci
 For further details on how the *Confucius* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Confucius](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](confucius.source.md)  

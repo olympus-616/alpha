@@ -77,7 +77,7 @@ If a component or module within Hygeia no longer serves a clear purpose or its r
 - Ensure alignment between the Hygeia module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Hygeia](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](hygeia.source.md)  

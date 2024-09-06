@@ -96,7 +96,7 @@ If a component or module within Alchemist no longer serves a clear purpose or it
 - Ensure alignment between the Alchemist module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Alchemist](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](alchemist.source.md)  

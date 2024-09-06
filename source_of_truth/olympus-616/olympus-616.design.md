@@ -123,7 +123,7 @@ Include any additional information, diagrams, or references that support the con
 - The components of Olympus-616 are detailed in the `olympus_616.components.md` file, listing all components under the jurisdiction of the system, including their descriptions, status, and source of truth.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Olympus-616](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](olympus_616.source.md)  

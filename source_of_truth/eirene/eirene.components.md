@@ -77,7 +77,7 @@ If a component or module within Eirene no longer serves a clear purpose or its r
 - Ensure alignment between the Eirene module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Eirene](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](eirene.source.md)  

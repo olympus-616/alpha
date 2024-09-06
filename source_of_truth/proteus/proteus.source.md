@@ -35,7 +35,7 @@ As part of the Zeus module, *Proteus* ensures that identity and access managemen
 For further details on how the *Proteus* component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Proteus](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](proteus.source.md)  

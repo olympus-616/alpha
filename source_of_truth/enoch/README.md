@@ -14,7 +14,7 @@ Enoch securely stores all journal entries within Metatron, ensuring that they ar
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Enoch](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](enoch.source.md)  

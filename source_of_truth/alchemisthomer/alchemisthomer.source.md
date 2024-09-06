@@ -35,6 +35,6 @@ The Alchemisthomer module serves as the central authority within Olympus-616, di
 For further details on how the Alchemisthomer component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Alchemisthomer](README.md)  
 [Authori

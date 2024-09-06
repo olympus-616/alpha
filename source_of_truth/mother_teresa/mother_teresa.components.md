@@ -77,7 +77,7 @@ If a component or module within Mother Teresa no longer serves a clear purpose o
 - Ensure alignment between the Mother Teresa module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Mother Teresa](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](mother_teresa.source.md)  

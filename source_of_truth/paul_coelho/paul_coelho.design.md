@@ -125,7 +125,7 @@ Include any additional information, diagrams, or references that support the con
 - The components of the Paul Coelho module are detailed in the `zeus.components.md` file, listing all components under the jurisdiction of Zeus, including their descriptions, status, and source of truth.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Paul Coelho](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](paul_coelho.source.md)  

@@ -16,7 +16,7 @@ Aphrodite’s role is vital in creating an environment where love and attraction
 2024 A.D.**
 
 ## Module Overview
-[Olympus-616](../../README.md)
+[Alpha](../../README.md)
 [Aphrodite](README.md)
 [Authority](../zeus/zeus.components.md)
 [Source](aphrodite.source.md)

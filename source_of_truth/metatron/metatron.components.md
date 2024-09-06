@@ -77,7 +77,7 @@ If a component or module within Metatron no longer serves a clear purpose or its
 - Ensure alignment between the Metatron module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Metatron](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](metatron.source.md)  

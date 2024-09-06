@@ -77,7 +77,7 @@ If a component or module within Buddha no longer serves a clear purpose or its r
 - Ensure alignment between the Buddha module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Buddha](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](buddha.source.md)  

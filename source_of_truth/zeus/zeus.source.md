@@ -78,7 +78,7 @@ For further details on how the *Zeus* component integrates with other components
 - Ensure that all related documents and features reference this source document to maintain traceability and consistency.
 ***
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Zeus](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](zeus.source.md)  

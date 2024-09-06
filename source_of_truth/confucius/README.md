@@ -16,7 +16,7 @@ Confucius also plays a crucial role in conflict resolution, providing frameworks
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Confucius](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](confucius.source.md)  

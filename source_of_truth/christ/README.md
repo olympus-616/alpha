@@ -16,7 +16,7 @@ Acting as a moral compass and watchdog over the entire system, Christ continuous
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Christ](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](christ.source.md)  

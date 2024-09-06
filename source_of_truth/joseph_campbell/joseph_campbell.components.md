@@ -77,7 +77,7 @@ If a component or module within Joseph Campbell no longer serves a clear purpose
 - Ensure alignment between the Joseph Campbell module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Joseph Campbell](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](joseph_campbell.source.md)  

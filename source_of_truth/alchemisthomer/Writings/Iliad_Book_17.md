@@ -1,0 +1,9 @@
+
+# The Iliad - Book 17: The Struggle Over Patroclus’ Body
+
+The fight between Trojans and Achaeans now rested on the body of Patroclus. Menelaus, son of Atreus, was the first to stand over him and kill his man, who was among the foremost of the Trojans, Podes, son of Eëtion, a brave warrior and the friend of Hector. Then Hector threw his spear at Menelaus, who saw it coming and stooped forward to avoid it, but the spear struck the breast of the brave son of Amphidamas, Euphorbus, who had been the first to strike Patroclus from his chariot. Euphorbus fell heavily ...
+
+When Hector heard this he was glad, for Menelaus had been cut off from his comrades and was obliged to stand alone. Nevertheless, he retired slowly, calling his men to come and support him, but Hector, with a loud shout, called upon the Trojans to press forward and seize the body. "Trojans and allies," he cried, "be men, my friends, and remember to fight. The body of Patroclus has fallen between the ships and our city, and he who wins it will be held in honor. Even if we are doomed to die, let us be sla...
+
+Hector then gave the armor to the Myrmidons to carry to the ships, but he kept the body of Patroclus. He lifted it off the ground, and began to carry it towards the city, but the Achaeans followed after him, crying aloud, for they knew that Hector would slay any man who tried to take the body from him. Then came the son of Peleus, swift-footed Achilles, and he cried aloud with a terrible voice, calling upon the Achaeans to rally round him. The Trojans trembled with fear as they heard his voice, and Hect...
+

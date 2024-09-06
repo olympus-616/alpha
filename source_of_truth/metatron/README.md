@@ -14,7 +14,7 @@ Metatron acts as the single source of truth for all information, verifying the a
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Metatron](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](metatron.source.md)  

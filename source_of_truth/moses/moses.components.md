@@ -77,7 +77,7 @@ If a component or module within Moses no longer serves a clear purpose or its re
 - Ensure alignment between the Moses module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Moses](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](moses.source.md)  

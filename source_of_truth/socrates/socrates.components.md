@@ -77,7 +77,7 @@ If a component or module within Socrates no longer serves a clear purpose or its
 - Ensure alignment between the Socrates module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Socrates](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](socrates.source.md)  

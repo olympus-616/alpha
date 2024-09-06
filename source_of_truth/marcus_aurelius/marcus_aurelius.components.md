@@ -77,7 +77,7 @@ If a component or module within Marcus Aurelius no longer serves a clear purpose
 - Ensure alignment between the Marcus Aurelius module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Marcus Aurelius](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](marcus_aurelius.source.md)  

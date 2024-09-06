@@ -35,7 +35,7 @@ The Buddha component is a vital part of the larger Zeus module within Olympus-61
 For further details on how the Buddha component integrates with Zeus, refer to the [Zeus Components Document](../zeus/zeus.components.md).
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Buddha](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](buddha.source.md)  

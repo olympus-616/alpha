@@ -77,7 +77,7 @@ If a component or module within Mirror of Narcissus no longer serves a clear pur
 - Ensure alignment between the Mirror of Narcissus module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Mirror of Narcissus](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](mirror_of_narcissus.source.md)  

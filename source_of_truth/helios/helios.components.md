@@ -77,7 +77,7 @@ If a component or module within Helios no longer serves a clear purpose or its r
 - Ensure alignment between the Helios module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Helios](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](helios.source.md)  

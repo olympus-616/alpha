@@ -76,7 +76,7 @@ For further details on how the *Socrates* component integrates with Zeus, refer 
 - Use this document as a foundational reference in the development and evolution of the Socrates module within Olympus-616.
 - Ensure that all related documents and features reference this source document to maintain traceability and consistency.
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Socrates](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](socrates.source.md)  

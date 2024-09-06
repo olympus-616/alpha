@@ -77,7 +77,7 @@ If a component or module within Midas no longer serves a clear purpose or its re
 - Ensure alignment between the Midas module and the overarching Zeus architecture.
 
 ## Links
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Midas](README.md)  
 [Authority](https://github.com/alchemisthomer)  
 [Source](midas.source.md)  

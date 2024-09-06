@@ -16,7 +16,7 @@ Buddha's role within Olympus-616 is to provide a tranquil foundation upon which 
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)
+[Alpha](../../README.md)
 [Buddha](README.md)
 [Authority](../zeus/zeus.components.md)
 [Source](buddha.source.md)

@@ -17,7 +17,7 @@ The Paul Coelho module is a beacon of inspiration within Olympus-616, guiding us
 2024 A.D.****
 
 ## Module Overview
-[Olympus-616](../../README.md)  
+[Alpha](../../README.md)  
 [Paul Coelho](README.md)  
 [Authority](../zeus/zeus.components.md)  
 [Source](paul_coelho.source.md)  
