@@ -20,16 +20,30 @@
 # Projects
 
 ## Mohela
-### Demo
+### In Progress Tasks
 - Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
 - Status: In Progress
-- Notes:
-    - PDF Viewer
+- Tasks:
+    - PDF Viewer (done, waiting for testing feedback)
     - Workflow Preview
     - Component Architecture for filtered contact/case components
+        - Get questions to Nishad
+    - Remove the permission sets from source completely
+    - Add the string he wanted for the demo
+    - Invoice
 
+
+## ERC
+### Invoice
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
+- Status: Backlog
+- Notes: Rebuilding DPE Org on pipeline for managing PRs
 
 ## PCM
+### Invoice
+- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
+- Status: Backlog
+- Notes: Deployment is failing to staging org
 
 ### Skedulo Test Coverage
 - Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
