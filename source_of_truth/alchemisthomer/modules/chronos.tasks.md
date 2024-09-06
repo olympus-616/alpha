@@ -22,7 +22,8 @@
 ## Accounting and Finance
 ### In Progress
 - Tasks:
-    - 
+    - [x] Complete Task
+    - [ ] Incomplete Task
 
 ## Mohela
 ### In Progress
@@ -34,7 +35,7 @@
     - [ ] Remove the permission sets from source completely
         - CAMP_UAT_PLATFORM
         - CAMP_UAT
-    [ ] Add the string he wanted for the demo
+    - [ ] Add the string he wanted for the demo
         - Local or National Emergency Forbearance
     - [x] Invoice
 
@@ -73,14 +74,11 @@
 ---
 # Template
 
-## Project Template
-- Project Name: 
-- Notes: 
-
-### Task Template
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: In Progress
-- Notes: 
+## Project Name
+### Swim Lane Status
+- Tasks:
+    - [x] Complete Task
+    - [ ] Incomplete Task
 
 ## Module Overview
 [Alpha](../../../README.md)
