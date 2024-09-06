@@ -19,81 +19,55 @@
 
 # Projects
 
+## Accounting and Finance
+### In Progress
+- Tasks:
+    - 
+
 ## Mohela
-### In Progress Tasks
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: In Progress
+### In Progress
 - Tasks:
     - PDF Viewer (done, waiting for testing feedback)
-    - Workflow Preview
+    - Workflow Preview (Nand is working on this)
     - Component Architecture for filtered contact/case components
         - Get questions to Nishad
     - Remove the permission sets from source completely
+        - CAMP_UAT_PLATFORM
+        - CAMP_UAT
     - Add the string he wanted for the demo
-    - Invoice
+        - Local or National Emergency Forbearance
+    x Invoice
 
 
 ## ERC
-### Invoice
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: Backlog
-- Notes: Rebuilding DPE Org on pipeline for managing PRs
+### In Progress
+- Tasks:
+    - Rebuilding DPE Org on pipeline for managing PRs
+    - Get invite requirements finalized and started in development
+    - Invoice
 
 ## PCM
-### Invoice
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: Backlog
-- Notes: Deployment is failing to staging org
-
-### Skedulo Test Coverage
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: In Progress
-- Notes: Deployment is failing to staging org
-
-### LOA Notifications
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: In Progress
-- Notes: Unable to find proof of LOA... need new id
-
-### Skill Sync
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: In Progress
-- Notes:
-Need Id https://procasemanagement.my.salesforce.com/003UW000004Dpte
-Syed Shahid that is the name of the CMRN the user gave
-
-### Delete Metadata from Justin
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: In Progress
-- Notes: Need to execute in uat, staging, and then prod
-
-### Environment Sandbox Script
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: In Progress
-- Notes: Need to execute in uat, staging, and then prod
-
-### Web2Case Go Live Plan
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: In Progress
-- Notes: 
-
-### Equipment Calibration LWC
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: Backlog
-- Notes: get details from Bliksem
+### In Progress
+- Tasks:
+    - Skedulo Test Coverage Deployment is failing to staging org
+    - Get datapopulation batch working
+    - Invoice
+    - Research LOA Notifications
+    - Research Skills Sync
+        - Need Id https://procasemanagement.my.salesforce.com/003UW000004Dpte
+        Syed Shahid that is the name of the CMRN the user gave
+    - Delete Metadata from Justin
+        - Need to execute in uat, staging, and then prod
+    - Web2Case Go Live Plan
+    - Equipment Calibration LWC
+        - get details from Bliksem
 
 ## Olympus-616
-### Chronos Prototype
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: Backlog
-- Notes:
--- Building chronos file to hold my tasks
-
-### Plutus Prototype
-- Assigned To: [@alchemisthomer](https://github.com/alchemisthomer)
-- Status: Backlog
-- Notes:
--- Building chronos file to manage my bills
+### In Progress
+- Tasks:
+    - Building chronos file to hold my tasks
+    - Building nomos file to hold my legal
+    - Building plutus file to hold my finances
 
 ---
 # Template
