@@ -28,7 +28,7 @@
 ## Mohela
 ### In Progress
 - Tasks:
-    - [ ] PDF Viewer (done, waiting for testing feedback)
+    - [x] PDF Viewer (done, waiting for testing feedback)
     - [ ] Workflow Preview (Nand is working on this)
     - [ ] Component Architecture for filtered contact/case components
         - Get questions to Nishad
