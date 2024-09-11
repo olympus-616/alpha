@@ -71,8 +71,9 @@
 ## PCM
 ### In Progress
 - Tasks:
-    - [ ] Pricing to Charlie
+    - [x] Pricing to Charlie
     - [ ] Skedulo Test Coverage Deployment is failing to staging org
+        - deploying to UAT
     - [ ] Get datapopulation batch working
         - He has the environment but was complaining about something
         - test his repo that he sent in the greg org
@@ -99,11 +100,7 @@
 ## CloudPremise
 ### In Progress
 - Tasks:
-    - [ ] Resched dev meetings
-        - 5:30 AM Denver
-        - 4:30 PM Pakistan
-        - 4 PM Indian
-    - [ ] Building nomos file to hold my legal
+    - [ ] Add rfAdapter security to all pages of reactforce
 
 ## Olympus-616
 ### In Progress
@@ -111,6 +108,8 @@
     - [ ] Building chronos file to hold my tasks
     - [ ] Building nomos file to hold my legal
     - [ ] Building plutus file to hold my finances
+    - [ ] Building dyonisys file to hold my frame
+        - must get his assets and home page too, etc
 
 ---
 # Template
