@@ -72,7 +72,7 @@
 ### In Progress
 - Tasks:
     - [x] Pricing to Charlie
-    - [ ] Skedulo Test Coverage Deployment is failing to staging org
+    - [x] Skedulo Test Coverage Deployment is failing to staging org
         - deploying to UAT
     - [ ] Get datapopulation batch working
         - He has the environment but was complaining about something
@@ -81,9 +81,13 @@
     - [ ] Research Skills Sync
         - Need Id https://procasemanagement.my.salesforce.com/003UW000004Dpte
         Syed Shahid that is the name of the CMRN the user gave
-    - [ ] Delete Metadata from Justin
+    - [x] Delete Metadata from Justin
         - Need to execute in uat, staging, and then prod
     - [ ] Web2Case Go Live Plan
+    - [ ] CTTS-2762 - Brigg/Activity Tracking
+        help desk console app
+        standard visit page (in full) --> adding a shipment pops up a wizard
+        shipment wizard 
 ### Backlog
 - Tasks:
     - [ ] Equipment Calibration LWC
