@@ -30,7 +30,7 @@
 - Tasks:
     - [x] PDF Viewer (done, waiting for testing feedback)
         - Need to account for the ICQCaseId in the Comments field within the PrintStream_Utility class after Nabyl pushes his change
-    - [ ] Workflow Preview (Nand is working on this)
+    - [x] Workflow Preview (Nand is working on this)
         - Owner - "to know if the queue has been processed" - what does this mean? (DEV-1245 CP 'case queues workflow`)
         - which loan are we doing the IV and employment verification if this is all for one loan?  we can find it on the case but not from the contact
     - [ ] Component Architecture for filtered contact/case components
@@ -53,17 +53,18 @@
 - A/R:
     - [x] Invoice
     - [ ] 41480 July & Aug
-    - [ ] 5440 Sept 6 (invoiced 9/6)
+    - [ ] 5440 Sept 6
+    - [ ] ? Sept 13 (invoiced 9/13)
+    - [ ] ? Sept 19 (not invoiced)
 
 ## ERC
 ### In Progress
 - Tasks:
-    - [ ] Rebuilding DPE Org on pipeline for managing PRs
-    - [ ] invite requirements finalized and started in development
-    - [x] get sandbox activated to nand
+    - [ ] Login Error
+    - [ ] Platform Event Error
 - A/R:
     - [x] Invoice
-    - [ ] 36000 June
+    - [x] 36000 June
     - [ ] 32400 July
     - [ ] 11850 August (invoiced 9/6)
 
@@ -73,16 +74,14 @@
 - Tasks:
     - [x] Pricing to Charlie
     - [ ] Skedulo Test Coverage Deployment is failing to staging org
-        - deploying to UAT
+        - Push branch release/staging into it (via feature/refreshEnv_20240919).  Then will push staging branch down into release/uat
     - [ ] Get datapopulation batch working
-        - He has the environment but was complaining about something
-        - test his repo that he sent in the greg org
+        - Monika is working on this
     - [ ] Research LOA Notifications
     - [ ] Research Skills Sync
         - Need Id https://procasemanagement.my.salesforce.com/003UW000004Dpte
         Syed Shahid that is the name of the CMRN the user gave
-    - [ ] Delete Metadata from Justin
-        - Need to execute in uat, staging, and then prod
+    - [x] Delete Metadata from Justin
     - [ ] Web2Case Go Live Plan
 ### Backlog
 - Tasks:
@@ -92,10 +91,11 @@
 - A/R:
     - [x] Invoice
     - [ ] 51355 July
-    - [ ] 52630 Aug (invoiced 9/6)
+    - [x] 52630 Aug (invoiced 9/6)
 - A/P:
     - [ ] 16625 Bliksem July
     - [ ] 14750 Bliksem Aug (invoiced 9/6)
+        - saved, not paid
 
 ## CloudPremise
 ### In Progress
