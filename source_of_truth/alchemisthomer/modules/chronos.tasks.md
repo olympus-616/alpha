@@ -117,6 +117,13 @@
     - [ ] Building plutus file to hold my finances
     - [ ] Building dyonisys file to hold my frame
         - must get his assets and home page too, etc
+    - [ ] https://medium.com/p/177b299ca2ba/edit Document and patent artifical consciousness framework
+        - prototype use case
+        - use hermes api to make a PR to the hermes api that can be automatically approved after reaching CI approval
+        - use hermes cli to access hermes api from cli
+        - use metatron? neuralpathway framework to record and manage each thought of the artificial consciousness
+        - use zues to define a single entry point of AI consciousness authority
+        - add dieties as necessary to align thoughts and ideas with decisions
 
 ---
 # Template
