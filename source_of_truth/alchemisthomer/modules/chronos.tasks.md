@@ -76,11 +76,11 @@
     - [x] Skedulo Test Coverage Deployment is failing to staging org
         - Push branch release/staging into it (via feature/refreshEnv_20240919).  Then will push staging branch down into release/uat
     - [x] Skedulo Test Coverage Deployment is failing to staging org
-    - [ ] Get datapopulation batch working
+    - [x] Get datapopulation batch working
         - Monika is working on this
-    - [ ] Research LOA Notifications
+    - [x] Research LOA Notifications
         - need to deploy fix to prod (push the templates to prod and the job is now properly scheduled)
-    - [ ] Research Skills Sync
+    - [x] Research Skills Sync
         - Need Id https://procasemanagement.my.salesforce.com/003UW000004Dpte
         Syed Shahid that is the name of the CMRN the user gave
         - need to update the workday mapping or remove it completely
