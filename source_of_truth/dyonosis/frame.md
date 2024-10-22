@@ -1,0 +1,1 @@
+responsible for managing and controlling frame through filters and disciplined conscious exposure to only the things i want to see manifest into reality.

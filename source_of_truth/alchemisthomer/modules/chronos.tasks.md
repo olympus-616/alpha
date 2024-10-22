@@ -28,11 +28,14 @@
 ## Mohela
 ### In Progress
 - Tasks:
-    - [x] PDF Viewer (done, waiting for testing feedback)
+    - [ ] PDF Viewer (done, waiting for testing feedback)
         - Need to account for the ICQCaseId in the Comments field within the PrintStream_Utility class after Nabyl pushes his change
+        - Need to get case number info added to end point
+        - filter it based upon what he passed in for the case number 
     - [x] Workflow Preview (Nand is working on this)
         - Owner - "to know if the queue has been processed" - what does this mean? (DEV-1245 CP 'case queues workflow`)
         - which loan are we doing the IV and employment verification if this is all for one loan?  we can find it on the case but not from the contact
+    - [ ] Bankrupcy Workflow Ticket
     - [ ] Component Architecture for filtered contact/case components
         - Get questions to Nishad
         - (CP DEV-1244 what are the fuctions/fields of the other sections for the admin layout)
@@ -51,11 +54,13 @@
         - #3067
         - #3062
 - A/R:
-    - [x] Invoice
-    - [ ] 41480 July & Aug
-    - [ ] 5440 Sept 6
-    - [ ] ? Sept 13 (invoiced 9/13)
-    - [ ] ? Sept 19 (not invoiced)
+    - [x] 41480 July & Aug
+    - [ ] 5440 ( 32) 5440 Ending 9/6
+    - [ ] 6120 (36) Week ENding 9/13
+    - [ ] 5865 (34.5) Week Ending 9/20
+    - [ ] 5440  (32) Week Ending 9/27
+    - [ ] 5780 (34) Week ending Oct 4
+    = [ ] 4760 (28) Week Ending Oct 11
 
 ## ERC
 ### In Progress
@@ -65,8 +70,9 @@
 - A/R:
     - [x] Invoice
     - [x] 36000 June
-    - [ ] 32400 July
-    - [ ] 11850 August (invoiced 9/6)
+    - [x] 32400 July
+    - [x] 11850 August (invoiced 9/6)
+    - [ ] 15750 September (invoiced 10/9)
 
 
 ## PCM
@@ -98,12 +104,13 @@
 ### Finances
 - A/R:
     - [x] Invoice
-    - [ ] 51355 July
+    - [ ] 51355 July - do online thing
     - [x] 52630 Aug (invoiced 9/6)
+    - [x] 61731 September (invoiced - do the online thing)
 - A/P:
     - [ ] 16625 Bliksem July
-    - [ ] 14750 Bliksem Aug (invoiced 9/6)
-        - saved, not paid
+    - [x] 14750 Bliksem Aug (invoiced 9/6)
+    - [ ] 22250 Bliksem, September... need to pay.
 
 ## CloudPremise
 ### In Progress
