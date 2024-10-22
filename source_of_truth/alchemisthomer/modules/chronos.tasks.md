@@ -81,13 +81,12 @@
 ### In Progress
 - Tasks:
     - [ ] Get datapopulation batch working
-
-
     - [ ] Web2Case Go Live Plan
     - [ ] CTTS-2762 - Brigg/Activity Tracking
         help desk console app
         standard visit page (in full) --> adding a shipment pops up a wizard
         shipment wizard 
+        
 ### Backlog
 - Tasks:
     - [ ] Equipment Calibration LWC
@@ -95,13 +94,13 @@
 ### Finances
 - A/R:
     - [x] Invoice
-    - [ ] 51355 July - do online thing
+    - [x] 51355 July
     - [x] 52630 Aug (invoiced 9/6)
     - [x] 61731 September (invoiced - do the online thing)
 - A/P:
-    - [ ] 16625 Bliksem July
+    - [x] 16625 Bliksem July
     - [x] 14750 Bliksem Aug (invoiced 9/6)
-    - [ ] 22250 Bliksem, September... need to pay.
+    - [x] 22250 Bliksem, September
 
 ## CloudPremise
 ### In Progress
