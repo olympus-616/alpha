@@ -28,8 +28,10 @@
 ## Mohela
 ### In Progress
 - Tasks:
-    - [ ] https://moheladev.atlassian.net/browse/DEV-1236 (Billing Tab)
-        Questions to nishad (CP: https://cloudpremise.atlassian.net/browse/DEV-1300)
+    - [ ] https://moheladev.atlassian.net/browse/DEV-1204 (Repayment Schedule)
+        (CP: https://cloudpremise.atlassian.net/browse/DEV-1328) - not started yet
+    - [ ] https://moheladev.atlassian.net/browse/DEV-1236 (Billing Tab) - in progress
+        Questions answered from nishad (CP: https://cloudpremise.atlassian.net/browse/DEV-1300)
     - [ ] PDF Viewer (done, waiting for testing feedback)
         - Need to account for the ICQCaseId in the Comments field within the PrintStream_Utility class after Nabyl pushes his change
         - Need to get case number info added to end point
@@ -86,7 +88,7 @@
         help desk console app
         standard visit page (in full) --> adding a shipment pops up a wizard
         shipment wizard 
-        
+
 ### Backlog
 - Tasks:
     - [ ] Equipment Calibration LWC
