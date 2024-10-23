@@ -28,11 +28,18 @@
 ## Mohela
 ### In Progress
 - Tasks:
-    - [x] PDF Viewer (done, waiting for testing feedback)
+    - [ ] https://moheladev.atlassian.net/browse/DEV-1204 (Repayment Schedule)
+        (CP: https://cloudpremise.atlassian.net/browse/DEV-1328) - not started yet
+    - [ ] https://moheladev.atlassian.net/browse/DEV-1236 (Billing Tab) - in progress
+        Questions answered from nishad (CP: https://cloudpremise.atlassian.net/browse/DEV-1300)
+    - [ ] PDF Viewer (done, waiting for testing feedback)
         - Need to account for the ICQCaseId in the Comments field within the PrintStream_Utility class after Nabyl pushes his change
+        - Need to get case number info added to end point
+        - filter it based upon what he passed in for the case number 
     - [x] Workflow Preview (Nand is working on this)
         - Owner - "to know if the queue has been processed" - what does this mean? (DEV-1245 CP 'case queues workflow`)
         - which loan are we doing the IV and employment verification if this is all for one loan?  we can find it on the case but not from the contact
+    - [ ] Bankrupcy Workflow Ticket
     - [ ] Component Architecture for filtered contact/case components
         - Get questions to Nishad
         - (CP DEV-1244 what are the fuctions/fields of the other sections for the admin layout)
@@ -51,44 +58,37 @@
         - #3067
         - #3062
 - A/R:
-    - [x] Invoice
-    - [ ] 41480 July & Aug
-    - [ ] 5440 Sept 6
-    - [ ] ? Sept 13 (invoiced 9/13)
-    - [ ] ? Sept 19 (not invoiced)
+    - [x] 41480 July & Aug
+    - [ ] 5440 ( 32) 5440 Ending 9/6
+    - [ ] 6120 (36) Week ENding 9/13
+    - [ ] 5865 (34.5) Week Ending 9/20
+    - [ ] 5440  (32) Week Ending 9/27
+    - [ ] 5780 (34) Week ending Oct 4
+    = [ ] 4760 (28) Week Ending Oct 11
 
 ## ERC
 ### In Progress
 - Tasks:
-    - [ ] Login Error
+    - [ ] Invite PR
     - [ ] Platform Event Error
 - A/R:
     - [x] Invoice
     - [x] 36000 June
-    - [ ] 32400 July
-    - [ ] 11850 August (invoiced 9/6)
+    - [x] 32400 July
+    - [x] 11850 August (invoiced 9/6)
+    - [ ] 15750 September (invoiced 10/9)
 
 
 ## PCM
 ### In Progress
 - Tasks:
-    - [x] Pricing to Charlie
-    - [ ] Skedulo Test Coverage Deployment is failing to staging org
-        - Push branch release/staging into it (via feature/refreshEnv_20240919).  Then will push staging branch down into release/uat
-    - [x] Skedulo Test Coverage Deployment is failing to staging org
     - [ ] Get datapopulation batch working
-        - Monika is working on this
-    - [ ] Research LOA Notifications
-    - [ ] Research Skills Sync
-        - Need Id https://procasemanagement.my.salesforce.com/003UW000004Dpte
-        Syed Shahid that is the name of the CMRN the user gave
-    - [x] Delete Metadata from Justin
-
     - [ ] Web2Case Go Live Plan
     - [ ] CTTS-2762 - Brigg/Activity Tracking
         help desk console app
         standard visit page (in full) --> adding a shipment pops up a wizard
         shipment wizard 
+
 ### Backlog
 - Tasks:
     - [ ] Equipment Calibration LWC
@@ -96,17 +96,20 @@
 ### Finances
 - A/R:
     - [x] Invoice
-    - [ ] 51355 July
+    - [x] 51355 July
     - [x] 52630 Aug (invoiced 9/6)
+    - [x] 61731 September (invoiced - do the online thing)
 - A/P:
-    - [ ] 16625 Bliksem July
-    - [ ] 14750 Bliksem Aug (invoiced 9/6)
-        - saved, not paid
+    - [x] 16625 Bliksem July
+    - [x] 14750 Bliksem Aug (invoiced 9/6)
+    - [x] 22250 Bliksem, September
 
 ## CloudPremise
 ### In Progress
 - Tasks:
     - [ ] Add rfAdapter security to all pages of reactforce
+    - [ ] Security Review
+    - [ ] CloudPremise website
 
 ## Olympus-616
 ### In Progress
@@ -116,6 +119,13 @@
     - [ ] Building plutus file to hold my finances
     - [ ] Building dyonisys file to hold my frame
         - must get his assets and home page too, etc
+    - [ ] https://medium.com/p/177b299ca2ba/edit Document and patent artifical consciousness framework
+        - prototype use case
+        - use hermes api to make a PR to the hermes api that can be automatically approved after reaching CI approval
+        - use hermes cli to access hermes api from cli
+        - use metatron? neuralpathway framework to record and manage each thought of the artificial consciousness
+        - use zues to define a single entry point of AI consciousness authority
+        - add dieties as necessary to align thoughts and ideas with decisions
 
 ---
 # Template
